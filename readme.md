@@ -1,7 +1,7 @@
  ## Desafio Magalu ##
 
 ###Iniciando
-Git Clone: https://github.com/pedrohenriqueveiga/desafio-magalu
+Git Clone: [https://github.com/pedrohenriqueveiga/desafio](https://github.com/pedrohenriqueveiga/desafio)
 
 `cd desafio-magalu`
 
