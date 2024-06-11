@@ -50,7 +50,8 @@ Observe que o sufixo do nome da classe de teste é Test (padrão recomendado).
 
 _AspectRest_ -  Controller para interceptar cada controller antes da execução, justamente para validar logs e avaliar consumo em tempo real.
 ___
-###Técnicas e Tecnologias Utilizadas
+
+### Técnicas e Tecnologias Utilizadas
 
 * Java 17
 * IntellJ IDEA
@@ -63,6 +64,7 @@ ___
 `POST http://localhost:8080/v1/quote/proccess`, 
 
 adicionando o arquivo data_1.txt ou data_2.txt no MultipartFile.
+![img_5.png](img_5.png)
 ___
 `GET http://localhost:8080/v1/quote/search`,
 
@@ -70,7 +72,7 @@ filtros como parametro da reques:
 * order-id (identificador do Pedido)
 * dateStart (2021-05-25) 
 * dateEnd   (2021-06-27) 
-
+![img_4.png](img_4.png)
 ___
 ### Input de Dados
 Avaliando o input de dados (data_1.txt e data_2.txt),
