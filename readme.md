@@ -1,11 +1,11 @@
  ## Desafio Magalu ##
 
-###Iniciando
+### Iniciando
 Git Clone: [https://github.com/pedrohenriqueveiga/desafio](https://github.com/pedrohenriqueveiga/desafio)
 
 `cd desafio-magalu`
 
-###Pré-Requisitos:
+### Pré-Requisitos:
 
 `mvn --version`
 
